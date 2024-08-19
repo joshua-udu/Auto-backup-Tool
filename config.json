@@ -1,0 +1,6 @@
+{
+    "backup_folders": ["/Users/sph/Documents/tests"],
+    "google_drive_folder_id": "12pHPbMN6r20RrbBPRp3ZeWA-5WYPmhi0",
+    "backup_schedule": "daily",
+    "file_types": [".pdf", ".docx", ".pptx", ".xlsx"]
+}
